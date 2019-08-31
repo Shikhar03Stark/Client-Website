@@ -1,0 +1,214 @@
+
+2_21-10-2018.
+First:SAMUEL.
+Last:JACKSON.
+Add1:77C,
+Add2:Perkin Road.
+Pin Code:566122.
+Phone:9112537401.
+ORDER:
+Murg Tandoori
+Kadhai Paneer
+Chiken Curry with Rice Combo
+Tandoori Roti
+Total:615 INR INR
+Grand Total:725.7 INR INR
+ -------------------- 
+1_22-10-2018.
+First:JOSEPH.
+Last:HELMHOLTZ.
+Add1:63, RedWood,
+Add2:Brooklyn.
+Pin Code:118361.
+Phone:8825179352.
+ORDER:
+Kadhai Paneer
+Mutton Curry with Rice Combo
+Total:425 INR INR
+Grand Total:501.5 INR INR
+ -------------------- 
+1_28-10-2018.
+First:CARL.
+Last:JOHNSON.
+Add1:E-13,
+Add2:Groove Streets.
+Pin Code:178254.
+Phone:4201567239.
+ORDER:
+Kadhai Chicken
+Chicken Biryani
+Total:450 INR INR
+Grand Total:531 INR INR
+ -------------------- 
+1_6-11-2018.
+First:RAVIKANT.
+Last:SHARMA.
+Add1:B-58, Pocket - 4,
+Add2:Kendriya Vihar -2, Noida.
+Pin Code:201304.
+Phone:4264468954.
+ORDER:
+Kadhai Paneer
+Dal Tadka
+Veg Biryani
+Roomali Roti
+Total:555 INR INR
+Grand Total:654.9 INR INR
+ -------------------- 
+1_9-11-2018.
+First:SAM.
+Last:AARON.
+Add1:49 - B,
+Add2:Perkin Street, LA.
+Pin Code:562822.
+Phone:7724638267.
+ORDER:
+Chole Chawal Combo
+Veg Biryani
+Butter Naan
+Dal Makhni
+Kadhai Paneer
+Total:730 INR INR
+Grand Total:861.4 INR INR
+ -------------------- 
+1_17-11-2018.
+First:SAMSON.
+Last:SANJU.
+Add1:93-C,
+Add2:GymKhana1.
+Pin Code:232342.
+Phone:9816735627.
+ORDER:
+Tandoori Roti
+Kadhai Paneer
+Veg Biryani
+Total:395 INR INR
+Grand Total:466.1 INR INR
+ -------------------- 
+1_11-12-2018.
+First:SHIKHAR.
+Last:DHAWAN.
+Add1:52 - Turing Road East,
+Add2:Perkin Street, LA.
+Pin Code:266630.
+Phone:1983767391.
+ORDER:
+Lachha Parantha
+Chole Chawal Combo
+Total:210 INR INR
+Grand Total:247.8 INR INR
+ -------------------- 
+1_19-12-2018.
+First:RANJAN.
+Last:NAGRAJAN.
+Add1:B-58, Pocket - 4,
+Add2:Oliver West.
+Pin Code:211222.
+Phone:8826772818.
+ORDER:
+Pindi Chole
+Veg Biryani
+Plain Naan
+Total:368 INR INR
+Grand Total:434.24 INR INR
+ -------------------- 
+1_25-12-2018.
+First:ROBERT.
+Last:JOHNSON.
+Add1:63, RedWood,
+Add2:Groove Streets.
+Pin Code:278168.
+Phone:8812121289.
+ORDER:
+Chiken Curry with Rice Combo
+Plain Naan
+Total:238 INR INR
+Grand Total:280.84 INR INR
+ -------------------- 
+2_25-12-2018.
+First:SHIKHAR.
+Last:AARON.
+Add1:77C,
+Add2:Groove Streets.
+Pin Code:178254.
+Phone:4264468954.
+ORDER:
+Shahi Paneer
+Chicken Biryani
+Butter Naan
+Total:455 INR INR
+Grand Total:536.9 INR INR
+ -------------------- 
+1_27-1-2019.
+First:JAMES.
+Last:MAY.
+Add1:TopGear HQ,
+Add2:Runway Facility.
+Pin Code:551628.
+Phone:8916736288.
+ORDER:
+Kadhai Paneer
+Mutton Curry with Rice Combo
+Tandoori Roti
+Total:435 INR INR
+Grand Total:513.3 INR INR
+ -------------------- 
+1_4-8-2019.
+First:SHIKHAR.
+Last:DUDE.
+Add1:B-2323,
+Add2:JJaksa.
+Pin Code:201081.
+Phone:8742840293.
+ORDER:
+Kadhai Paneer
+Butter Naan
+Butter Naan
+Chicken Biryani
+Total:475 INR INR
+Grand Total:560.5 INR INR
+ -------------------- 
+1_4-8-2019.
+First:.
+Last:.
+Add1:,
+Add2:.
+Pin Code:.
+Phone:.
+ORDER:
+Dal Makhni
+Dal Makhni
+Butter Naan
+Chicken Biryani
+Total:575 INR INR
+Grand Total:678.5 INR INR
+ -------------------- 
+1_10-8-2019.
+First:AWDA`.
+Last:SDAD.
+Add1:SDAS,
+Add2:ASDASER.
+Pin Code:DQSQWE.
+Phone:0301242342.
+ORDER:
+Chole Chawal Combo
+Mutton Curry with Rice Combo
+Roomali Roti
+Lachha Parantha
+Total:480 INR INR
+Grand Total:566.4 INR INR
+ -------------------- 
+1_19-8-2019.
+First:NAMAN.
+Last:JAIN.
+Add1:34,
+Add2:Harlem.
+Pin Code:312312.
+Phone:3482310293.
+ORDER:
+Kadhai Paneer
+Butter Naan
+Veg Biryani
+Total:400 INR INR
+Grand Total:472 INR INR
+ -------------------- 
