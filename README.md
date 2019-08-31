@@ -10,3 +10,7 @@ The Orders of Customer is strored in the server(machine in which website is uplo
 The last entry is the Latest Entry in the order file.
 
 I also developed an Algo for a Unique OrderID Generation using php.
+
+If you are running XAMPP then create a folder in htdocs 'FOLDER_NAME' then place all the 'My Website Files' in this folder.
+
+Then Open this link in browser: http://localhost/FOLDER_NAME/Tandoor_Express.php
